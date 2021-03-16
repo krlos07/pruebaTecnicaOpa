@@ -1,0 +1,21 @@
+body {
+	background-image: url(../img/fondo.jpg);
+}
+
+.main {
+	display: flex;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	background-color: #FEFEFE;
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px 2px;
+	text-align: center;
+	flex-direction: column;
+}
+
+.mountain {
+	width: 230px;
+	height: 230px;
+	margin: -30px -50px;
+}
